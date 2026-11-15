@@ -7,7 +7,7 @@ void T();
 void Eprime();
 void Tprime();
 void F();
-void main()
+int main()
 {
     printf("Recursive Descend parser for arithmetic expn containing + and *(eg:a+a*a)\n");
     printf("Enter an arithmetic expression : ");
