@@ -11,7 +11,7 @@ void in_to_pos();
 int get_pre(char);
 int top = 0, no = 1;
 char stack[30], inf[50], post[50], str[10];
-void main()
+int main()
 {
 char ch;
 int i = 0;
